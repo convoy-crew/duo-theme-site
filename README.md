@@ -1,4 +1,4 @@
-# Duo Theme public support site
+# Moji Duo public support site
 
 Only public support and privacy information. Native app source, signing material and App Store API credentials must never be added here.
 
